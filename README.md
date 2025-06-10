@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Tomer Chermesh 👋</h1>
 <h3 align="center">A Full-Stack developer from Israel</h3>
 
-- 🔭 I’m currently working on [fpl_mini_leagues_captains_bot](https://github.com/TomerChermesh/fpl_mini_leagues_captains_bot)
+- 🔭 My last work: [fpl_mini_leagues_captains_bot](https://github.com/TomerChermesh/fpl_mini_leagues_captains_bot)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
