@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Tomer Chermesh 👋</h1>
 <h3 align="center">A Full-Stack developer from Israel</h3>
 
-- 🔭 My last work: [Tic Tac Toe with AI Mode]([https://github.com/TomerChermesh/tictactoe])
+- 🔭 My last work: [Tic Tac Toe with AI Mode](https://github.com/TomerChermesh/tictactoe)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
